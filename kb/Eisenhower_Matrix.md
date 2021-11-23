@@ -2,15 +2,20 @@
 title: Eisenhower_Matrix
 tags: agil klassisch
 author: Ersan42
-anrechnung: k oder a
+anrechnung: k oder a -->
 ---
+# Eisenhower Matrix
 
-Kurzbeschreibung zu Eisenhower_Matrix um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Das Eisenhower Prinzip (auch genannt Eisenhower Methode, Eisenhower Matrix) kann dabei helfen, anstehende Aufgaben in Kategorien einzuteilen und diese zu priorisieren. Dabei wird jede Aufgabe auf Dringlichkeit und Wichtigkeit überprüft. Dadurch sollen die wichtigsten Aufgaben zuerst erledigt werden und die unwichtigen aussortiert. Eine Aufgabe kann wichtig/nicht wichtig sowie dringend/nicht dringend sein. Insgesamt ergeben sich vier Kombinationsmöglichkeiten, die in einer Matrix mit vier Quadranten sichtbar gemacht werden können. Jedem Aufgabentyp wird eine bestimmte Art der Bearbeitung zugeordnet.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+**A-Aufgaben:** jene die dringend und wichtig sind. Sie sollten sofort selbst erledigt werden
+
+**B-Aufgaben:** jene die wichtig, aber nicht dringend sind. Sie können auf einen anderen Termin verschoben werden, an dem sie selbst erledigt werden.
+
+**C-Aufgaben:** jene die nicht wichtig, aber dringend sind. Sie können an kompetente Mitarbeiter übergeben werden.
+
+**D-Aufgaben:** jene die nicht wichtig und nicht dringend sind. Sie müssen nicht erledigt werden und werden als Zeitfresser eingestuft.
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
@@ -45,7 +50,13 @@ Aspekte zu Themen können ganz unterschiedlich sein:
 * Historische Entwicklung
 * Kritik 
 
-![Beispielabbildung](Eisenhower_Matrix/test-file.jpg)
+![Beispielabbildung](Heutzutage sind viele Aufgaben gleichzeitig zu erledigen, sei es in der Schule an der Uni oder in der Arbeit. Damit steigt jedoch das Risiko den Überblick zu verlieren. Vor allem dringende aber eigentlich unwichtige Aufgaben werden oft zuerst angegangen. Die Lösung für dieses Problem ist das Eisenhower Prinzip. Mit dieser Methode entkommt man dauerhaft der Dringlichkeitsfalle.
+Das Prinzip (auch genannt Eisenhower Methode, Eisenhower Matrix) kann dabei helfen, zu bestimmen, welche Aufgaben priorisiert werden sollten. Dabei wird jede Aufgabe auf Dringlichkeit und Wichtigkeit überprüft. Eine Aufgabe kann wichtig/nicht wichtig sowie dringend/nicht dringend sein. Insgesamt ergeben sich vier Kombinationsmöglichkeiten, die in einer Matrix mit vier Quadranten sichtbar gemacht werden können.
+A-Aufgaben: jene die dringend und wichtig sind. Sie sollten sofort selbst erledigt werden
+B-Aufgaben: jene die wichtig, aber nicht dringend sind. Sie können auf einen anderen Termin verschoben werden, an dem sie selbst erledigt werden.
+C-Aufgaben: jene die nicht wichtig, aber dringend sind. Sie können an kompetente Mitarbeiter übergeben werden.
+D-Aufgaben: jene die nicht wichtig und nicht dringend sind. Sie müssen nicht erledigt werden und werden als Zeitfresser eingestuft.
+)
 
 *lustiges Testbild*
 
@@ -89,8 +100,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Eisenhower_Matrix.md)
-
+* [Link auf diese Seite](EisenhowerMatrix.PNG)
 # Weiterführende Literatur
 
 * Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
